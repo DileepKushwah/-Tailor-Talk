@@ -3,3 +3,8 @@ uvicorn
 pandas
 requests
 streamlit
+matplotlib
+seaborn
+langchain
+langchain-openai
+python-dotenv
